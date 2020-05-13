@@ -1,0 +1,6 @@
+.hypothesis
+.pytest_cache
+.vscode
+htmlcov
+.coverage
+db.sqlite3
